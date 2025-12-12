@@ -1,95 +1,67 @@
 # 🌟 JavaScript — Complete Fundamentals + Modern Concepts
-**A clean, beginner-friendly, and structured repository covering everything I have learned in JavaScript so far.  
-No frameworks. No advanced topics. Only pure, modern JavaScript fundamentals.**
+**A beginner-friendly and structured repository covering everything I have learned in pure JavaScript — from basics to core logic-building topics.  
+No frameworks. No advanced topics. Only modern JS fundamentals.**
 
 ---
 
 ## 📌 About This Repository
-This repository contains all the JavaScript programs I wrote while learning JS from scratch — from basics to core logic-building topics.
+This repository contains all the JavaScript programs I wrote while learning JS from scratch.
 
 It includes:
-- 📖 Complete **JS basics**
-- 🔢 Variables, Data Types, Operators
-- 🔁 Loops, Conditionals, Functions
-- 📦 Arrays, Objects, Strings
-- ✨ ES6+ Features
-- 🧠 Logic-building exercises & small programs
-- 🧮 Math functions, patterns, and common problems
-- 🧹 Clean syntax, organized files, and readable code
+- 📖 JS basics, variables, data types, operators  
+- 🔁 Loops, conditionals, functions  
+- 📦 Arrays, objects, strings  
+- ✨ ES6+ features (arrow functions, destructuring, spread/rest, template literals)  
+- 🧠 Logic-building exercises, math problems, and patterns  
+- 🧹 Clean, organized, and readable code  
 
-This repo is ideal for beginners who want to solidify JavaScript fundamentals before moving into DOM, React, Node.js, or DSA.
+Ideal for beginners looking to solidify JS fundamentals before moving to DOM, React, Node.js, or DSA.
 
 ---
 
 ## 📂 Topics Included
 
-### 🌱 JavaScript Fundamentals
-- What is JavaScript?
-- How JS runs (browser + V8 engine)
-- Comments, Tokens, Basic Syntax
+### 🌱 Fundamentals
+- What is JavaScript? How it runs  
+- Syntax, comments, tokens  
 
 ### 🔢 Variables & Data Types
-- var, let, const
-- Primitive data types
-- Type conversion & type coercion
-- Operators (Arithmetic, Logical, Comparison, Assignment)
+- var, let, const  
+- Primitives, type conversion, type coercion  
+- Operators: arithmetic, logical, comparison, assignment  
 
 ### 🔁 Control Flow
-- If–else
-- Nested conditions
-- Switch case
-- Loops:
-  - for, while, do...while
-  - Loop control: break, continue
+- If–else, switch-case  
+- Loops: for, while, do...while  
+- Break & continue  
 
 ### 🔧 Functions
-- Function declaration
-- Function expression
-- Arrow functions (=>)
-- Default parameters
-- Return statements
-- Parameter vs argument
+- Declaration & expression  
+- Arrow functions  
+- Default parameters, return statements  
 
 ### 📦 Arrays
-- Creating arrays
-- Traversing arrays
-- Important array methods:
-  - push, pop, shift, unshift
-  - map, filter, reduce
-  - includes, indexOf
-  - slice, splice
-- Multidimensional arrays
+- Creation, traversal, multidimensional arrays  
+- Methods: push, pop, shift, unshift, map, filter, reduce, includes, indexOf, slice, splice  
 
 ### 🗂 Objects
-- Object creation
-- Accessing values
-- Adding/removing properties
-- Looping through objects
-- Nested objects
-- Array of objects
+- Creation, accessing, adding/removing properties  
+- Looping, nested objects, array of objects  
 
 ### 🔤 Strings
-- String literals & template literals
-- Useful string methods:
-  - trim, slice, substring, replace
-  - charAt, toUpperCase, toLowerCase
+- Literals, template literals  
+- Methods: trim, slice, substring, replace, charAt, toUpperCase, toLowerCase  
 
-### 🧠 Logic-Building & Problem Solving
-- Number problems (sum, factorial, prime, etc.)
-- Pattern printing
-- Palindrome checks
-- Frequency counters
-- Array manipulation tasks
-- Object-based problems
+### 🧠 Logic & Problem Solving
+- Math problems, patterns, palindrome, frequency counters  
+- Array & object manipulation tasks  
 
-### ⚙️ ES6+ Concepts
-- let vs const vs var
-- Arrow functions
-- Spread & Rest operators
-- Destructuring (Array & Object)
-- Template literals
-- for...of and for...in loops
+### ⚙️ ES6+ Features
+- Arrow functions, spread & rest operators  
+- Destructuring (array & object)  
+- Template literals, for...of / for...in loops  
 
 ---
 
 ## 🗂 Repository Structure
+Organized folders for each topic for easy navigation and practice.
